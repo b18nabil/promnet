@@ -1,2 +1,2 @@
 # belajar promnet
-# 3b PSTI
+# 3B PSTI
